@@ -1,7 +1,6 @@
-'''This script detects if a person is drowsy or not,using dlib and eye aspect ratio
-calculations. Uses webcam video feed as input.'''
 
-#Import necessary libraries
+
+
 from scipy.spatial import distance
 from imutils import face_utils
 import numpy as np
